@@ -1,6 +1,6 @@
 # SimonGame
 A simple JavaScript version of Simon (the game), playable in your browser.
 
-The game Simon *(Hasbro)* made into a web app using JavaScript, HTML, and CSS; hosted on Heroku. 
+The game Simon *(Hasbro)* made into a web app using JavaScript, HTML, and CSS.
 
-You can play the game here: TBD
+Interested in playing? Go to the following link to play: https://my-simon-game.herokuapp.com/
